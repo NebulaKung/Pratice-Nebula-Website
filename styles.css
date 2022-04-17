@@ -12,3 +12,17 @@ body{
 .content1{
     padding-left: 50px;
 }
+
+.container2{
+    display: flex;
+    padding: 50px;
+    
+}
+.image2{
+    width: 300px;
+}
+
+.content2{
+    padding-right: 50px;
+}
+
