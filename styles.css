@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+.container1{
+    display: flex;
+    padding: 50px;
+}
+.image1{
+    width: 300px;
+    
+}
+.content1{
+    padding-left: 50px;
+}
